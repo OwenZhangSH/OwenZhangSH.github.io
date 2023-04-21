@@ -2,7 +2,7 @@
     <channel>
         <title>我的全新 Hugo 网站</title>
         <link>https://www.OwenZhangSH.github.io/</link>
-        <description>This is my cool site</description>
+        <description>个人博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1915427675@qq.com (张书豪)</managingEditor>
             <webMaster>1915427675@qq.com (张书豪)</webMaster><lastBuildDate>Fri, 21 Apr 2023 16:55:45 &#43;0800</lastBuildDate>
             <atom:link href="https://www.OwenZhangSH.github.io/index.xml" rel="self" type="application/rss+xml" />
