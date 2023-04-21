@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>我的全新 Hugo 网站</title>
+        <link>https://www.OwenZhangSH.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1915427675@qq.com (张书豪)</managingEditor>
+            <webMaster>1915427675@qq.com (张书豪)</webMaster><lastBuildDate>Fri, 21 Apr 2023 16:55:45 &#43;0800</lastBuildDate>
+            <atom:link href="https://www.OwenZhangSH.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>https://www.OwenZhangSH.github.io/posts/first_post/</link>
+    <pubDate>Fri, 21 Apr 2023 16:55:45 &#43;0800</pubDate>
+    <author>张书豪</author>
+    <guid>https://www.OwenZhangSH.github.io/posts/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
